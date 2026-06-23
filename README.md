@@ -9,7 +9,7 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mambura&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architecture%20%C2%B7%20SOC%20Leadership%20%C2%B7%20Offensive%20Security%20%C2%B7%20GRC&descAlignY=58&descSize=18" width="100%" alt="Mambura — Enterprise Security Architecture, SOC Leadership, Offensive Security, GRC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias Marwa&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architecture%20%C2%B7%20SOC%20Leadership%20%C2%B7%20Offensive%20Security%20%C2%B7%20GRC&descAlignY=58&descSize=18" width="100%" alt="Mambura — Enterprise Security Architect, SOC Leadership, Cloud Security, VAPT-Offensive Security, GRC"/>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
