@@ -9,11 +9,11 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias-Marwa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architect%20%C2%B7%20Lead%20SOC%20Analyst%20%C2%B7%20Offensive%20Security%20%C2%B7%20GRC&descAlignY=58&descSize=18" width="100%" alt="Mathias Marwa"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias-Marwa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architect%20%C2%B7%20Lead%20SOC%20Analyst%20%C2%B7%20VAPT%20%C2%B7%20GRC&descAlignY=58&descSize=18" width="100%" alt="Mathias Marwa"/>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=08C2A8&center=true&vCenter=true&width=820&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Focus areas"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=08C2A8&center=true&vCenter=true&width=900&height=45&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Focus areas"/>
 </a>
 
 <br/>
