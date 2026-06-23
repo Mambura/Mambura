@@ -9,11 +9,11 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias%20Marwa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architect%20%C2%B7%20SOC%20Analyst%20%26%20Lead%20%C2%B7%20VAPT%20%C2%B7%20Offensive%20Security%20%C2%B7%20GRC%20Board-Level%20Reporting&descAlignY=58&descSize=16" width="100%" alt="Mathias Marwa — Enterprise Security Architect, SOC Analyst & Lead, VAPT, Offensive Security, GRC Board-Level Reporting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias%20Marwa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architect%20%C2%B7%20Lead%20SOC%20Analyst%20%C2%B7%20VAPT%20%26%20Offensive%20Security%20%C2%B7%20GRC%20Board-Level%20Reporting&descAlignY=58&descSize=16" width="100%" alt="Mathias Marwa — Enterprise Security Architect, Lead SOC Analyst, VAPT and Offensive Security, GRC Board-Level Reporting"/>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=08C2A8&center=true&vCenter=true&width=1000&height=45&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;SOC+leadership+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Security architecture, engineering and governance as one system; 100+ engagements across Kenya's financial and public sector; SOC leadership and 93.5% vulnerability closure; build then pressure-test"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=08C2A8&center=true&vCenter=true&width=1000&height=45&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Security architecture, engineering and governance as one system; 100+ engagements across Kenya's financial and public sector; Lead SOC Analyst with 93.5% vulnerability closure; build then pressure-test"/>
 </a>
 
 <br/>
