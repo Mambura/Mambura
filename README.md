@@ -9,11 +9,11 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias-Marwa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architecture%20%C2%B7%20SOC%20Leadership%20%C2%B7%20Offensive%20Security%20%C2%B7%20GRC&descAlignY=58&descSize=18" width="100%" alt="Mathias Marwa — Enterprise Security Architect, SOC Leadership, Cloud Security, VAPT-Offensive Security, GRC"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias-Marwa&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architect%20%C2%B7%20Lead%20SOC%20Analyst%20%C2%B7%20Offensive%20Security%20%C2%B7%20GRC&descAlignY=58&descSize=18" width="100%" alt="Mathias Marwa"/>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=08C2A8&center=true&vCenter=true&width=820&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;SOC+leadership+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Typing summary of focus areas"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=08C2A8&center=true&vCenter=true&width=820&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Focus areas"/>
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 <!-- ============ AT-A-GLANCE BADGES ============ -->
 <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0B486B?style=for-the-badge" alt="Based in Nairobi, Kenya"/>
 <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Advisory-08C2A8?style=for-the-badge" alt="Open to remote and advisory"/>
-<img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20InforSec%20Infrastructure-1A1A2E?style=for-the-badge" alt="Focus: Critical Enterprise Infrastructure"/>
+<img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20InfoSec%20Infrastructure-1A1A2E?style=for-the-badge" alt="Focus: Enterprise and InfoSec infrastructure"/>
 
 </div>
 
@@ -84,7 +84,7 @@ Framework mapping, control design, and the kind of board-ready documentation tha
 > 🧭 **SOC Homelab & Enterprise Monitoring with Wazuh SIEM/XDR**
 > A complete, standalone SOC monitoring platform: a Wazuh manager deployed on hardened Ubuntu, multi-OS endpoints (Windows, Linux, and a real physical device acting as a BYOD endpoint), Sysmon-enriched telemetry, network segmentation across an isolated lab fabric, and live alerting triaged by severity. Built as a reference others can learn from and a service organisations can commission.
 >
-> 📂 **[Explore the build →](https://github.com/Mambura)** *(pinned below)*
+> 📂 **[Explore the build &rarr;](https://github.com/Mambura)** *(pinned below)*
 
 More repositories cover detection rule engineering, attack simulation, malware analysis, and incident response. Browse the pinned projects for the current set.
 
@@ -128,7 +128,7 @@ More repositories cover detection rule engineering, attack simulation, malware a
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mambura&show_icons=true&hide_border=true&title_color=08C2A8&icon_color=08C2A8&text_color=c9d1d9&bg_color=0d1117" alt="Mambura's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mambura&show_icons=true&hide_border=true&title_color=08C2A8&icon_color=08C2A8&text_color=c9d1d9&bg_color=0d1117" alt="Mathias Marwa GitHub stats"/>
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mambura&layout=compact&hide_border=true&title_color=08C2A8&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages"/>
 
 </div>
@@ -147,9 +147,10 @@ If you are an organisation that wants this done properly on your own infrastruct
 <a href="mailto:mathiasmarwa155@gmail.com">
   <img src="https://img.shields.io/badge/Email-Get%20in%20touch-08C2A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
-<a href="linkedin.com/in/mathias-marwa-918637170/">
+<a href="https://www.linkedin.com/in/mathias-marwa-918637170/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
+
 </div>
 
 <br/>
