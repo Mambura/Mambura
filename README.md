@@ -25,7 +25,7 @@
 
 <br/><br/>
 
-**Lead Cybersecurity Engineer · 100+ enterprise engagements across financial and public sector · SOC teams led, not just staffed**
+**Lead Cybersecurity Engineer · 100+ enterprise engagements across financial and public sector · SOC team leadership**
 
 </div>
 
@@ -142,7 +142,7 @@ More repositories cover detection rule engineering, attack simulation, malware a
 <!-- ============ ENGAGE / CTA ============ -->
 ## Work with me, or learn alongside me
 
-I publish these builds so practitioners and people moving up in the field can study how the work is actually reasoned through, not just read theory about it. Everything here is meant to be used: clone it, adapt it, challenge it.
+I publish these builds so practitioners and people moving up in the field can study how the work is actually reasoned through. Everything here is meant to be used: clone it, adapt it, challenge it.
 
 If you are an organisation that wants this done properly on your own infrastructure (SOC deployment, detection engineering, a security assessment, or a governance programme that survives an audit) that is the work I do. The labs show the method; the engagement applies it to your environment.
 
