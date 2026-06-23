@@ -21,7 +21,7 @@
 <!-- ============ AT-A-GLANCE BADGES ============ -->
 <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0B486B?style=for-the-badge" alt="Based in Nairobi, Kenya"/>
 <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Advisory-08C2A8?style=for-the-badge" alt="Open to remote and advisory"/>
-<img src="https://img.shields.io/badge/Focus-Financial%20%26%20Critical%20Infrastructure-1A1A2E?style=for-the-badge" alt="Focus: financial and critical infrastructure"/>
+<img src="https://img.shields.io/badge/Focus-Financial%20%26%20Critical%20Infrastructure-1A1A2E?style=for-the-badge" alt="Focus: Critical Enterprise Infrastructure"/>
 
 </div>
 
