@@ -1,3 +1,159 @@
-## Hi there 👋
+<!--
+================================================================
+  Mambura — GitHub Profile README
+  Profile repository: Mambura/Mambura
+  Rendered at the top of github.com/Mambura
+================================================================
+-->
 
-This is my home page. As you can see, I am quite gifted in many areas. Through hardwork, proper time management and swift learning and adaptability, I have mastered diverse skills in the Tech space. My strongest suite is the cyber security space, Doubling as both an Enterprise security arcchitecture and a Network and Cloud Security Engineer. Closely following it is the ...... Please click the panel that is relevant to the projects you want to see 
+<!-- ============ ANIMATED HEADER ============ -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mambura&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architecture%20%C2%B7%20SOC%20Leadership%20%C2%B7%20Offensive%20Security%20%C2%B7%20GRC&descAlignY=58&descSize=18" width="100%" alt="Mambura — Enterprise Security Architecture, SOC Leadership, Offensive Security, GRC"/>
+
+<!-- ============ TYPING TAGLINE ============ -->
+<a href="#">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=08C2A8&center=true&vCenter=true&width=820&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;SOC+leadership+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Typing summary of focus areas"/>
+</a>
+
+<br/>
+
+<!-- ============ AT-A-GLANCE BADGES ============ -->
+<img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0B486B?style=for-the-badge" alt="Based in Nairobi, Kenya"/>
+<img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Advisory-08C2A8?style=for-the-badge" alt="Open to remote and advisory"/>
+<img src="https://img.shields.io/badge/Focus-Financial%20%26%20Critical%20Infrastructure-1A1A2E?style=for-the-badge" alt="Focus: financial and critical infrastructure"/>
+
+</div>
+
+<br/>
+
+<!-- ============ ABOUT ============ -->
+## About
+
+Most organisations in regulated sectors do not have a cybersecurity problem. They have an architecture problem. Perimeter controls sit in isolation, endpoint defence is disconnected from the network layer, identity governance is an afterthought, and detection stays reactive while the attack surface keeps growing. The reason is almost always the same: nobody designed the defences as one system.
+
+That design work is what I do. My work sits where security architecture, engineering, and governance meet. I build layered enterprise security frameworks from the ground up, including network segmentation, Zero Trust access enforcement, privileged identity controls, endpoint behavioural defence, database activity monitoring, and managed detection. I integrate these into a coherent posture rather than a stack of products, then I pressure-test that posture through red-team exercises and structured adversarial assessment to see what it actually holds against.
+
+Over the last three-plus years I have delivered 100+ security engagements across Kenya's financial and public sector. I have led SOC teams of up to eight analysts in continuous detection environments, driven enterprise vulnerability remediation to a documented 93.5% closure rate, and produced investor-grade security assessments reviewed by institutional investors in Europe. I have embedded DevSecOps controls into CI/CD pipelines at financial institutions and cut the introduction of OWASP Top 10 vulnerabilities in production by 60%. On the governance side I have written the ISO 27001 frameworks, CBK cybersecurity assessments, SASRA compliance programmes, PCI-DSS gap analyses, and GRC structures (built around Kenya's Data Protection Act 2019) that boards and auditors actually use.
+
+The thing that separates practitioners who change risk posture from practitioners who generate reports is translation. Technical security only reduces risk when the institution understands what it is carrying. A SACCO tolerating a broken authentication bypass in its member API is not facing a compliance flag; it is exposed to member data theft, regulatory sanction, reputational collapse, and potential insolvency. Stating that clearly enough for a board to fund the fix, and precisely enough for an engineer to implement it correctly, is a capability I have built deliberately.
+
+This GitHub profile is where I open up that practice. Alongside client work, I build full security labs end to end and document them properly, partly as a record of my own methodology and partly because most people entering this field struggle to find a clear, honest path in. The writeups here are meant to give them a rope to climb.
+
+<br/>
+
+<!-- ============ WHAT YOU'LL FIND HERE ============ -->
+## What you'll find here
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+**🛡️ Security operations & detection**
+Production-style SOC builds, SIEM/XDR deployments, custom detection engineering, and threat-hunting workflows, documented end to end.
+
+</td>
+    <td width="50%" valign="top">
+
+**⚔️ Offensive security & VAPT**
+Structured penetration tests and adversarial assessments against deliberately vulnerable targets, written up to professional report standard.
+
+</td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+
+**☁️ Cloud & DevSecOps**
+Secure cloud architecture, infrastructure as code, and security controls embedded directly into CI/CD pipelines.
+
+</td>
+    <td width="50%" valign="top">
+
+**📋 Governance, risk & compliance**
+Framework mapping, control design, and the kind of board-ready documentation that converts architectural intent into operational discipline.
+
+</td>
+  </tr>
+</table>
+
+<br/>
+
+<!-- ============ FEATURED ============ -->
+## Featured work
+
+> 🧭 **SOC Homelab & Enterprise Monitoring with Wazuh SIEM/XDR**
+> A complete, standalone SOC monitoring platform: a Wazuh manager deployed on hardened Ubuntu, multi-OS endpoints (Windows, Linux, and a real physical device acting as a BYOD endpoint), Sysmon-enriched telemetry, network segmentation across an isolated lab fabric, and live alerting triaged by severity. Built as a reference others can learn from and a service organisations can commission.
+>
+> 📂 **[Explore the build →](https://github.com/Mambura)** *(pinned below)*
+
+More repositories cover detection rule engineering, attack simulation, malware analysis, and incident response. Browse the pinned projects for the current set.
+
+<br/>
+
+<!-- ============ TECH STACK ============ -->
+## Toolset & frameworks
+
+**Detection & SIEM**
+![Wazuh](https://img.shields.io/badge/Wazuh-3268C4?style=for-the-badge&logo=wazuh&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+
+**Offensive & analysis**
+![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Ghidra](https://img.shields.io/badge/Ghidra-CF2B27?style=for-the-badge&logoColor=white)
+
+**Cloud & DevSecOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+**Frameworks & standards**
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge&logoColor=white)
+![NIST CSF](https://img.shields.io/badge/NIST_CSF-005EA2?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-0B486B?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![PCI DSS](https://img.shields.io/badge/PCI_DSS-1A1A2E?style=for-the-badge&logoColor=white)
+
+<br/>
+
+<!-- ============ GITHUB STATS ============ -->
+## Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Mambura&show_icons=true&hide_border=true&title_color=08C2A8&icon_color=08C2A8&text_color=c9d1d9&bg_color=0d1117" alt="Mambura's GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mambura&layout=compact&hide_border=true&title_color=08C2A8&text_color=c9d1d9&bg_color=0d1117" alt="Most used languages"/>
+
+</div>
+
+<br/>
+
+<!-- ============ ENGAGE / CTA ============ -->
+## Work with me, or learn alongside me
+
+I publish these builds so other practitioners and people breaking into the field have something real to study rather than a wall of theory. Everything here is meant to be useful: clone it, adapt it, challenge it.
+
+If you are an organisation that wants this done properly on your own infrastructure (SOC deployment, detection engineering, a security assessment, or a governance programme that survives an audit) that is the work I do. The labs show the method; the engagement applies it to your environment.
+
+<div align="center">
+
+<a href="mailto:mathiasmarwa155@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Get%20in%20touch-08C2A8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="linkedin.com/in/mathias-marwa-918637170/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+</div>
+
+<br/>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:08C2A8,100:0B486B&height=120&section=footer" width="100%" alt=""/>
+</div>
