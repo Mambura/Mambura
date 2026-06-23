@@ -13,7 +13,7 @@
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=08C2A8&center=true&vCenter=true&width=900&height=45&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Focus areas"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=3000&color=08C2A8&center=true&vCenter=true&width=900&height=45&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Focus areas"/>
 </a>
 
 <br/>
