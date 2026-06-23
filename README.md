@@ -9,7 +9,7 @@
 <!-- ============ ANIMATED HEADER ============ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias%20Marwa&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architect%20%C2%B7%20Lead%20SOC%20Analyst%20%C2%B7%20VAPT%20%26%20Offensive%20Security%20%C2%B7%20GRC%20Board-Level%20Reporting&descAlignY=58&descSize=16" width="100%" alt="Mathias Marwa — Enterprise Security Architect, Lead SOC Analyst, VAPT and Offensive Security, GRC Board-Level Reporting"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B486B,100:08C2A8&height=200&section=header&text=Mathias%20Marwa&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Enterprise%20Security%20Architect%20%C2%B7%20Lead%20SOC%20Analyst%20%C2%B7%20VAPT%20%26%20Offensive%20Security%20%C2%B7%20GRC%20Board-Level%20Reporting&descAlignY=58&descSize=18" width="100%" alt="Mathias Marwa — Enterprise Security Architect, Lead SOC Analyst, VAPT and Offensive Security, GRC Board-Level Reporting"/>
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
