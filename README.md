@@ -13,7 +13,7 @@
 
 <!-- ============ TYPING TAGLINE ============ -->
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=3000&color=08C2A8&center=true&vCenter=true&width=900&height=45&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Focus areas"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=08C2A8&center=true&vCenter=true&width=900&height=45&lines=Security+architecture%2C+engineering%2C+and+governance+as+one+system;100%2B+engagements+across+Kenya's+financial+and+public+sector;Lead+SOC+Analyst+%C2%B7+93.5%25+vulnerability+closure+%C2%B7+DevSecOps+in+CI%2FCD;I+build+the+defences+as+a+cohesive+system%2C+then+I+pressure-test+them" alt="Focus areas"/>
 </a>
 
 <br/>
@@ -22,6 +22,10 @@
 <img src="https://img.shields.io/badge/Based%20in-Nairobi%2C%20Kenya-0B486B?style=for-the-badge" alt="Based in Nairobi, Kenya"/>
 <img src="https://img.shields.io/badge/Open%20to-Remote%20%26%20Advisory-08C2A8?style=for-the-badge" alt="Open to remote and advisory"/>
 <img src="https://img.shields.io/badge/Focus-Enterprise%20%26%20InfoSec%20Infrastructure-1A1A2E?style=for-the-badge" alt="Focus: Enterprise and InfoSec infrastructure"/>
+
+<br/><br/>
+
+**Lead Cybersecurity Engineer · 100+ enterprise engagements across financial and public sector · SOC teams led, not just staffed**
 
 </div>
 
@@ -38,7 +42,7 @@ Over the last three-plus years I have delivered 100+ security engagements across
 
 The thing that separates practitioners who change risk posture from practitioners who generate reports is translation. Technical security only reduces risk when the institution understands what it is carrying. A SACCO tolerating a broken authentication bypass in its member API is not facing a compliance flag; it is exposed to member data theft, regulatory sanction, reputational collapse, and potential insolvency. Stating that clearly enough for a board to fund the fix, and precisely enough for an engineer to implement it correctly, is a capability I have built deliberately.
 
-This GitHub profile is where I open up that practice. Alongside client work, I build full security labs end to end and document them properly, partly as a record of my own methodology and partly because most people entering this field struggle to find a clear, honest path in. The writeups here are meant to give them a rope to climb.
+This GitHub profile is where that practice is made open. Alongside live client work, I build complete reference systems end to end and document them to the standard I hold my own teams to. Part of that is method capture; part of it is deliberate. The people coming up in this field rarely get to see how a real enterprise build is reasoned through from first principles, so I publish it. Distilling production-grade work into something a junior can actually follow is not a beginner's exercise. It is what mastery of a domain looks like when it is shared.
 
 <br/>
 
@@ -82,7 +86,7 @@ Framework mapping, control design, and the kind of board-ready documentation tha
 ## Featured work
 
 > 🧭 **SOC Homelab & Enterprise Monitoring with Wazuh SIEM/XDR**
-> A complete, standalone SOC monitoring platform: a Wazuh manager deployed on hardened Ubuntu, multi-OS endpoints (Windows, Linux, and a real physical device acting as a BYOD endpoint), Sysmon-enriched telemetry, network segmentation across an isolated lab fabric, and live alerting triaged by severity. Built as a reference others can learn from and a service organisations can commission.
+> The way I stand up monitoring in production, documented in full: a Wazuh manager on hardened Ubuntu, multi-OS endpoints (Windows, Linux, and a real physical device acting as a BYOD endpoint), Sysmon-enriched telemetry, network segmentation across an isolated fabric, and live alerting triaged by severity. Written as a reference for practitioners building toward the same standard, and as a capability organisations can commission directly.
 >
 > 📂 **[Explore the build &rarr;](https://github.com/Mambura)** *(pinned below)*
 
@@ -138,7 +142,7 @@ More repositories cover detection rule engineering, attack simulation, malware a
 <!-- ============ ENGAGE / CTA ============ -->
 ## Work with me, or learn alongside me
 
-I publish these builds so other practitioners and people breaking into the field have something real to study rather than a wall of theory. Everything here is meant to be useful: clone it, adapt it, challenge it.
+I publish these builds so practitioners and people moving up in the field can study how the work is actually reasoned through, not just read theory about it. Everything here is meant to be used: clone it, adapt it, challenge it.
 
 If you are an organisation that wants this done properly on your own infrastructure (SOC deployment, detection engineering, a security assessment, or a governance programme that survives an audit) that is the work I do. The labs show the method; the engagement applies it to your environment.
 
