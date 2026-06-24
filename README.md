@@ -36,13 +36,13 @@
 
 Most organisations in regulated sectors do not have a cybersecurity problem. They have an architecture problem. Perimeter controls sit in isolation, endpoint defence is disconnected from the network layer, identity governance is an afterthought, and detection stays reactive while the attack surface keeps growing. The reason is almost always the same: nobody designed the defences as one system.
 
-That design work is what I do. My work sits where security architecture, engineering, and governance meet. I build layered enterprise security frameworks from the ground up, including network segmentation, Zero Trust access enforcement, privileged identity controls, endpoint behavioural defence, database activity monitoring, and managed detection. I integrate these into a coherent posture rather than a stack of products, then I pressure-test that posture through red-team exercises and structured adversarial assessment to see what it actually holds against.
+That design work is what I do. My work sits where security architecture, engineering, and governance meet. I build layered enterprise security frameworks from the ground up, including network segmentation, Zero Trust access enforcement, privileged identity controls, endpoint behavioural defence, database activity monitoring, and managed detection. I integrate these into a coherent posture rather than a stack of products, then I pressure-test that posture through red-team exercises and structured adversarial assessment to see what it actually holds against. Most importantly, I present these into executive grade comprehensive reporting that both the decision making boards and the server room Engineers understand.
 
-Over the last three-plus years I have delivered 100+ security engagements across Kenya's financial and public sector. I have led SOC teams of up to eight analysts in continuous detection environments, driven enterprise vulnerability remediation to a documented 93.5% closure rate, and produced investor-grade security assessments reviewed by institutional investors in Europe. I have embedded DevSecOps controls into CI/CD pipelines at financial institutions and cut the introduction of OWASP Top 10 vulnerabilities in production by 60%. On the governance side I have written the ISO 27001 frameworks, CBK cybersecurity assessments, SASRA compliance programmes, PCI-DSS gap analyses, and GRC structures (built around Kenya's Data Protection Act 2019) that boards and auditors actually use.
+For almost 4 years now, I have delivered 100+ security engagements across Kenya's financial and public sector. I have led SOC teams of up to eight analysts in continuous detection environments, driven enterprise vulnerability remediation to a documented 93.5% closure rate, and produced investor-grade security assessments reviewed by institutional investors across East Africa and partly in Europe. I have embedded DevSecOps controls into CI/CD pipelines at financial institutions and cut the introduction of OWASP Top 10 vulnerabilities in production by 60%. On the governance side I have strengthened organizational postures against the ISO 27001 frameworks, CBK cybersecurity guidlines, SASRA compliance, PCI-DSS, and other GRC structures that boards and auditors actually use.
 
-The thing that separates practitioners who change risk posture from practitioners who generate reports is translation. Technical security only reduces risk when the institution understands what it is carrying. A SACCO tolerating a broken authentication bypass in its member API is not facing a compliance flag; it is exposed to member data theft, regulatory sanction, reputational collapse, and potential insolvency. Stating that clearly enough for a board to fund the fix, and precisely enough for an engineer to implement it correctly, is a capability I have built deliberately.
+The thing that separates practitioners who only understand the terminal from practitioners who actually drive change in risk posture is translation. Technical security skill only reduces risk when the institution understands what it is carrying. A SACCO tolerating a broken authentication bypass in its member API is not facing a compliance flag; it is exposed to member data theft, regulatory sanction, reputational collapse, and potential insolvency. Stating that clearly enough for a board to fund the fix, and precisely enough for an engineer to implement it correctly, is a rare talent among most Engineers, yet a capability I have built deliberately.
 
-This GitHub profile is where that practice is made open. Alongside live client work, I build complete reference systems end to end and document them to the standard I hold my own teams to. Part of that is method capture; part of it is deliberate. The people coming up in this field rarely get to see how a real enterprise build is reasoned through from first principles, so I publish it. Distilling production-grade work into something a junior can actually follow is not a beginner's exercise. It is what mastery of a domain looks like when it is shared.
+This GitHub profile is where that practice is made open. Alongside live client work, I build complete reference systems end to end and document them to the standard I hold my own teams to. Part of that is method capture; part of it is deliberate. Young Engineers in the Cybersecurity field rarely get to see how a real enterprise build is reasoned through from first principles, so I publish it. Distilling production-grade work into something a an IT manager at a bank can deploy, yet elaborate enough to the level a junior can actually follow and learn on a SOHO network.
 
 <br/>
 
@@ -90,25 +90,28 @@ Framework mapping, control design, and the kind of board-ready documentation tha
 >
 > 📂 **[Explore the build &rarr;](https://github.com/Mambura)** *(pinned below)*
 
-More repositories cover detection rule engineering, attack simulation, malware analysis, and incident response. Browse the pinned projects for the current set.
+More repositories cover detection rule engineering, attack simulation, malware analysis, incident response, Application and API Pentesting, Database Security and Cloud Security. Browse the pinned projects for the current set.
 
 <br/>
 
 <!-- ============ TECH STACK ============ -->
 ## Toolset & frameworks
 
-**Detection & SIEM**
+**Detection SIEM & XDR**
 ![Wazuh](https://img.shields.io/badge/Wazuh-3268C4?style=for-the-badge&logo=wazuh&logoColor=white)
 ![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
 ![Suricata](https://img.shields.io/badge/Suricata-EF3B2D?style=for-the-badge&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Group-IB XDR](https://img.shields.io/badge/Group--IB-XDR-FF0000?style=for-the-badge)
 
 **Offensive & analysis**
 ![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nexpose](https://img.shields.io/badge/Nexpose-FF6600?style=for-the-badge&logoColor=white)
+![Nexpose](https://img.shields.io/badge/Nexpose-FF6600?style=for-the-badge&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-CF2B27?style=for-the-badge&logoColor=white)
 
 **Cloud & DevSecOps**
@@ -117,6 +120,8 @@ More repositories cover detection rule engineering, attack simulation, malware a
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
 
 **Frameworks & standards**
 ![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CC0000?style=for-the-badge&logoColor=white)
@@ -142,7 +147,7 @@ More repositories cover detection rule engineering, attack simulation, malware a
 <!-- ============ ENGAGE / CTA ============ -->
 ## Work with me, or learn alongside me
 
-I publish these builds so practitioners and people moving up in the field can study how the work is actually reasoned through. Everything here is meant to be used: clone it, adapt it, challenge it.
+I publish these builds so practitioners and people moving up in the field can study how the work is actually reasoned through, If you are unsure about which cybersec path to take, this can also give you a glimpse of the various subdomains in this field. Everything here is meant to be used: clone it, adapt it, challenge it.
 
 If you are an organisation that wants this done properly on your own infrastructure (SOC deployment, detection engineering, a security assessment, or a governance programme that survives an audit) that is the work I do. The labs show the method; the engagement applies it to your environment.
 
