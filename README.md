@@ -88,7 +88,7 @@ Framework mapping, control design, and the kind of board-ready documentation tha
 > 🧭 **SOC Homelab & Enterprise Monitoring with Wazuh SIEM/XDR**
 > The way I stand up monitoring in production, documented in full: a Wazuh manager on hardened Ubuntu, multi-OS endpoints (Windows, Linux, and a real physical device acting as a BYOD endpoint), Sysmon-enriched telemetry, network segmentation across an isolated fabric, and live alerting triaged by severity. Written as a reference for practitioners building toward the same standard, and as a capability organisations can commission directly.
 >
-> 📂 **[Explore the build &rarr;]([https://github.com/Mambura](https://github.com/Mambura/Enterprise-SOC-Monitoring-Wazuh))** *(pinned below)*
+> 📂 **[Explore the build &rarr;](https://github.com/Mambura/Enterprise-SOC-Monitoring-Wazuh)** *(pinned below)*
 
 More repositories cover detection rule engineering, attack simulation, malware analysis, incident response, Application and API Pentesting, Database Security and Cloud Security. Browse the pinned projects for the current set.
 
